@@ -20,7 +20,7 @@
             ['R', '%n + %n', 'math', 1, 1],
         ],
         menus: {},
-        url: 'https://example.com/scratch-extension/'
+        url: 'https://github.com/DaFlopper/Scratch-Math/blob/main/README.md'
     };
 
     // Register the extension
